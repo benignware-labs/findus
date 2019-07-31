@@ -1,0 +1,12 @@
+.findus {
+  min-height: 400px;
+
+  /* Remove additional margins in info-window */
+  .gm-style-iw > div > div > *:first-child {
+    margin-top: 0;
+  }
+
+  .gm-style-iw > div > div > *:last-child {
+    margin-bottom: 0;
+  }
+}
